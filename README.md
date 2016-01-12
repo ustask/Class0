@@ -2,4 +2,4 @@
 *January 12, 2016*
 Class and assignment 0
 
-First day of classes
+First day of classes another change
