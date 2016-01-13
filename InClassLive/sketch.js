@@ -1,11 +1,15 @@
 function setup() {
   createCanvas(500,500)
-  console.log("Hello World again")
+  background(235, 0, 0)
 }
 
 function draw() {
-  background(255,0,0);
-  console.log("another world");
-  background(34,23,0);
-  console.log("another world didn't show up");;
+  if (mouseY < 250) {
+    ellipse(50, mouseY, 50, 50);
+  }
+  else {
+    ellipse(mouseX, 50, 50, 50);
+  }
+  
+  console.log(mouseY)
 }
