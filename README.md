@@ -55,5 +55,3 @@ Class specific
 - http://p5js.org/download/"
 - http://education.github.com/"
 
-
-
