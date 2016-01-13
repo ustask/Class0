@@ -4,11 +4,8 @@ function setup() {
 }
 
 function draw() {
-  if (mouseY < 250) {
-    ellipse(50, mouseY, 50, 50);
-  }
-  else {
-    ellipse(mouseX, 50, 50, 50);
+  if (mouseY === 250) {
+    background(0,0,0)
   }
   
   console.log(mouseY)
