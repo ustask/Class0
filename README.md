@@ -34,8 +34,8 @@ Nearly all of the tools and technologies in this class are used in real digital 
 - Git+Github for the rest of the class
 
 
-## What you need to be able to do before leaving class:
-Clone this repo and put in a pull request.
+/*## What you need to be able to do before leaving class:
+Clone this repo and put in a pull request.*/
 
 
 ### Good sources for help
